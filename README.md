@@ -141,3 +141,29 @@ Through these experiments, I learned:
 
 # 📁 Repository Structure
 
+---
+
+# 🚀 Future Improvements
+
+- Deploy models as web apps  
+- Try advanced algorithms (XGBoost, Neural Networks)  
+- Work on real-world datasets  
+- Build end-to-end ML applications  
+
+---
+
+# 👤 Author
+
+**Hemant Sharma (HKS)**  
+B.Tech Computer Science Student  
+Machine Learning Enthusiast  
+
+---
+
+# ⭐ Note
+
+This repository is for academic learning and experimentation purposes.
+
+If you find it helpful, consider giving it a star ⭐
+
+
