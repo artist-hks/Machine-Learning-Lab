@@ -209,8 +209,8 @@ Through this repository, I have developed:
 
 # 👤 Author
 
-**Hemant Sharma (HKS)**
-B.Tech Computer Science Student
+**Hemant Sharma (HKS)** |
+B.Tech Computer Science Student |
 Machine Learning Enthusiast
 
 ---
